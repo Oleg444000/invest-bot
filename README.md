@@ -1,4 +1,4 @@
-# Trading bot based on Tinkoff Invest Python gRPC client API
+# Торговый бот, основанный на Tinkoff Invest Python gRPC client API
 
 ## Project Status
 The project status is an example of trading bot and isn't ready for any production using. 
